@@ -4,6 +4,8 @@ A pretty-printer for JS code that outputs npm style.
 
 Uses UglifyJS 2.0
 
+Currently not working
+
 ## LICENSE ##
 
 Copyright (c) 2012, Thom Blake <thethomblake@gmail.com>
