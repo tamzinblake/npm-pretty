@@ -645,6 +645,7 @@ function hybridLazyTests () {
 1
                                          , 2
 
+;
 //test z3
 //+ should correctly indent to first column without throwing an error
 //related to fix for Issue #29
