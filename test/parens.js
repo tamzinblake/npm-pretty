@@ -6,4 +6,5 @@ function foo (bar) {
 ;(function (bar) {
   var x
   console.log(x+1)
-}
+})()
+
