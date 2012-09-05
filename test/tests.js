@@ -1,5 +1,7 @@
+//comment before function foo
 function foo (bar) {
-  var baz = bar + 1
+  //comment in function foo before variable declaration baz
+  var baz = /* multiline comment before bar */ bar + 1
   return baz
 }
 
